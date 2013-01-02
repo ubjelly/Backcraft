@@ -9,3 +9,4 @@ To Do (In no particular order)
   5. The footer needs work. Mainly the content the sticky footer won't take long.
   6. The about page is nearly finished.
   7. Register form doesnt link the ids anymore.
+  8. Come up with ideas for other various services such as a seed searcher.
